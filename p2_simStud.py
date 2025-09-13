@@ -16,7 +16,7 @@ class Student:
         self.gladness += 4
     def to_chill(self):
         print('rest time')
-        self.progress -= 0.1
+        self.progress -= 0.10
         self.gladness += 6
     def is_alive(self):
         if self.progress < -0.5:
@@ -48,6 +48,95 @@ for day in range(365):
     if nick.alive == False:
         break
     nick.live(day)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
